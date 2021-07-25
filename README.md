@@ -6,6 +6,7 @@ You can adjust the file how you want.
 For this, You can replace "img" by the word you want ! And replace the URL of course !
 So, you have just to put your word at the 'img' place, at the first and seconde line !
 
+To run it, open in terminal the floder, and : python3 filename.py
 
 So the default is : 
 
